@@ -4,4 +4,3 @@ sqlalchemy
 matplotlib
 geopy
 plotly
-psycopg2
