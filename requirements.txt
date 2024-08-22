@@ -2,8 +2,5 @@ streamlit
 pandas
 sqlalchemy
 matplotlib
-urllib
-datetime
 geopy
 plotly
-re
