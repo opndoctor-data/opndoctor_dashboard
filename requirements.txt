@@ -1,9 +1,9 @@
 streamlit
 pandas
 sqlalchemy
-matplotlib.pyplot
-urllib.parse
+matplotlib
+urllib
 datetime
-geopy.distance
-plotly.graphh_objs
+geopy
+plotly
 re
